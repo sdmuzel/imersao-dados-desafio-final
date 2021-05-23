@@ -14,4 +14,3 @@ Aula 05 _ Machine Learning e Sci-kit Learning.
 
 Esse projeto será referente a tudo que vimos durante as aulas.
 
-## Sumário
