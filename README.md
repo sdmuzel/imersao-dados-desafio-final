@@ -10,7 +10,7 @@ Aula 03 _ Correlações, causalidade e relações entre genes.
 
 Aula 04 _ Merge de dados e análise de resultados.
 
-Aula 04 _ Machine Learning e Sci-kit Learning.
+Aula 05 _ Machine Learning e Sci-kit Learning.
 
 Esse projeto será referente a tudo que vimos durante as aulas.
 
